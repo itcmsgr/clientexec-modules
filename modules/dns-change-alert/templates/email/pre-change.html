@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNS Change Alert</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header {
+            background-color: #ff9800;
+            color: white;
+            padding: 20px;
+            border-radius: 8px 8px 0 0;
+            margin: -30px -30px 20px -30px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .alert-icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+        .info-box {
+            background-color: #fff3cd;
+            border-left: 4px solid #ff9800;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .changes-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        .changes-table th,
+        .changes-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .changes-table th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        .old-value {
+            color: #d32f2f;
+            text-decoration: line-through;
+        }
+        .new-value {
+            color: #388e3c;
+            font-weight: bold;
+        }
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            margin: 10px 5px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .button-primary {
+            background-color: #2196F3;
+            color: white;
+        }
+        .button-danger {
+            background-color: #f44336;
+            color: white;
+        }
+        .footer {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            font-size: 12px;
+            color: #666;
+            text-align: center;
+        }
+        .footer a {
+            color: #2196F3;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="alert-icon">⚠️</div>
+            <h1>{{lang_action_required}}</h1>
+            <p>{{lang_dns_change_pending}}</p>
+        </div>
+
+        <p><strong>{{lang_domain}}:</strong> <span style="font-size: 18px; color: #2196F3;">{{domain}}</span></p>
+
+        <div class="info-box">
+            <p><strong>{{lang_what_happening}}</strong></p>
+            <p>{{lang_dns_change_requested}}</p>
+            <ul>
+                <li><strong>{{lang_scheduled_time}}:</strong> {{scheduled_time}}</li>
+                <li><strong>{{lang_initiated_by}}:</strong> {{initiated_by}}</li>
+            </ul>
+        </div>
+
+        <h2>{{lang_proposed_changes}}</h2>
+        {{changes}}
+
+        <p><strong>{{lang_what_can_do}}</strong></p>
+        <ul>
+            <li>{{lang_review_changes}}</li>
+            <li>{{lang_if_authorized}}</li>
+            <li>{{lang_if_not_authorized}}</li>
+        </ul>
+
+        <div style="text-align: center; margin: 30px 0;">
+            <a href="{{cancel_url}}" class="button button-danger">{{lang_cancel_change}}</a>
+            <a href="{{verify_url}}" class="button button-primary">{{lang_review_details}}</a>
+        </div>
+
+        <div class="info-box" style="background-color: #e3f2fd; border-left-color: #2196F3;">
+            <p><strong>{{lang_important}}:</strong> {{lang_nis2_compliance}}</p>
+        </div>
+
+        <div class="footer">
+            <p>{{lang_automated_message}}</p>
+            <p>
+                <strong>ITCMS DNS Alert System</strong><br>
+                Copyright © 2025 Antonios Voulvoulis<br>
+                <a href="https://itcms.gr">https://itcms.gr</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>

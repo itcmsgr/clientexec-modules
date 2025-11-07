@@ -1,0 +1,36 @@
+Valid-License-Identifier: LicenseRef-ITCMS-Free-1.0
+License-Text:
+    ITCMS.GR Free License — All Rights Reserved
+    Version: 1.0
+    SPDX Short Identifier: LicenseRef-ITCMS-Free-1.0
+
+    Copyright (c) 2025 Antonios Voulvoulis, ITCMS.GR
+    All Rights Reserved.
+
+    Permission:
+        You are granted a free, non-exclusive, non-transferable license
+        to install and use this software for personal, internal,
+        or commercial purposes as provided, without modification.
+
+    Restrictions:
+        - You may not copy, clone, modify, decompile, or reverse engineer this software.
+        - You may not redistribute, upload, share, or publish the source code or binaries.
+        - You may not sell, sublicense, or profit directly from this software.
+        - You must not remove author credits, copyright notices, or branding.
+        - You may not claim this software or any derived work as your own.
+
+    Ownership:
+        All rights, title, and interest in this software remain the
+        exclusive property of Antonios Voulvoulis (ITCMS.GR).
+
+    Future Editions:
+        A commercial "Pro Edition" with additional features may be released
+        under separate terms. This license applies only to the free edition.
+
+    Disclaimer:
+        This software is provided "AS IS", without warranty of any kind,
+        express or implied. The author is not liable for any damages
+        or losses arising from its use.
+
+    Contact: contact@itcms.gr
+    Website: https://itcms.gr

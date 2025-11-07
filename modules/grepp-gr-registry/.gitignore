@@ -1,0 +1,39 @@
+# SPDX-License-Identifier: LicenseRef-ITCMS-Free-1.0
+# ClientExec .GR Registrar Module - Git Ignore File
+
+# Runtime Configuration (contains sensitive credentials)
+/config/config.php
+/config.php
+
+# Log Files
+/logs/*.log
+/logs/*.txt
+/logs/sync_*.log
+
+# Temporary Files
+*.swp
+*.bak
+*.tmp
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Certificates (if custom)
+/lib/certificates/*.pem.bak
+
+# Backup Files
+*.sql.bak
+*.php.bak
+backup/
+
+# User-specific data
+/config/custom_*.php

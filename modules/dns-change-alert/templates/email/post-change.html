@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNS Change Completed</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header {
+            background-color: #4caf50;
+            color: white;
+            padding: 20px;
+            border-radius: 8px 8px 0 0;
+            margin: -30px -30px 20px -30px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .success-icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+        .info-box {
+            background-color: #d4edda;
+            border-left: 4px solid #4caf50;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .changes-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        .changes-table th,
+        .changes-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .changes-table th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        .old-value {
+            color: #999;
+        }
+        .new-value {
+            color: #388e3c;
+            font-weight: bold;
+        }
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            margin: 10px 5px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            text-align: center;
+            background-color: #2196F3;
+            color: white;
+        }
+        .footer {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            font-size: 12px;
+            color: #666;
+            text-align: center;
+        }
+        .footer a {
+            color: #2196F3;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="success-icon">✅</div>
+            <h1>{{lang_change_completed}}</h1>
+            <p>{{lang_dns_updated_successfully}}</p>
+        </div>
+
+        <p><strong>{{lang_domain}}:</strong> <span style="font-size: 18px; color: #4caf50;">{{domain}}</span></p>
+
+        <div class="info-box">
+            <p><strong>{{lang_status}}:</strong> {{lang_changes_applied}}</p>
+            <ul>
+                <li><strong>{{lang_applied_time}}:</strong> {{applied_time}}</li>
+                <li><strong>{{lang_initiated_by}}:</strong> {{initiated_by}}</li>
+            </ul>
+        </div>
+
+        <h2>{{lang_changes_applied_header}}</h2>
+        {{changes}}
+
+        <div class="info-box" style="background-color: #fff3cd; border-left-color: #ff9800;">
+            <p><strong>{{lang_propagation_notice}}:</strong></p>
+            <p>{{lang_dns_propagation_time}}</p>
+        </div>
+
+        <p><strong>{{lang_what_next}}</strong></p>
+        <ul>
+            <li>{{lang_verify_changes}}</li>
+            <li>{{lang_if_unauthorized}}</li>
+            <li>{{lang_monitor_services}}</li>
+        </ul>
+
+        <div style="text-align: center; margin: 30px 0;">
+            <a href="{{verify_url}}" class="button">{{lang_verify_dns_records}}</a>
+        </div>
+
+        <div class="footer">
+            <p>{{lang_automated_message}}</p>
+            <p>
+                <strong>ITCMS DNS Alert System</strong><br>
+                Copyright © 2025 Antonios Voulvoulis<br>
+                <a href="https://itcms.gr">https://itcms.gr</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>

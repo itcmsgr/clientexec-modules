@@ -1,0 +1,21 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# PHP files
+*.php text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.txt text eol=lf
+
+# Configuration files
+*.ini text eol=lf
+*.conf text eol=lf
+
+# Certificates
+*.pem binary
+
+# Archives
+*.zip binary
+*.tar binary
+*.gz binary

@@ -1,0 +1,48 @@
+ITCMS.GR Free License — All Rights Reserved
+===========================================
+
+Copyright (c) 2025 Antonios Voulvoulis, ITCMS.GR
+All Rights Reserved.
+
+1. Permission to Use
+--------------------
+You are granted a free, non-exclusive, non-transferable license to install and use
+this software for personal, internal, or commercial purposes.
+
+This permission is limited to using the software as provided, without modification.
+
+2. Restrictions
+---------------
+You MAY NOT:
+- Copy, clone, modify, decompile, or reverse engineer any part of the software.
+- Redistribute, upload, share, or publish the source code or binaries.
+- Sell, sublicense, or profit directly from this software.
+- Remove or alter author credits, copyright notices, or branding.
+- Claim this software or any derived version as your own.
+
+3. Ownership
+------------
+All rights, title, and interest in this software remain the exclusive property of
+Antonios Voulvoulis (ITCMS.GR).
+This license does not transfer any intellectual property rights.
+
+4. Future Editions
+------------------
+A commercial "Pro Edition" may be released under separate license terms.
+This license applies only to the free edition.
+
+5. Disclaimer
+-------------
+This software is provided "AS IS," without warranty of any kind.
+The author is not responsible for any damages, loss, or liability resulting from
+use or misuse of this software.
+
+6. Acceptance
+-------------
+By downloading, installing, or using this software, you agree to all terms above.
+If you do not agree, do not use or distribute this software.
+
+-------------------------------------
+Contact: contact@itcms.gr
+Website: https://itcms.gr
+-------------------------------------

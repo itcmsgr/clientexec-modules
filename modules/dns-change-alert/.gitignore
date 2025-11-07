@@ -1,0 +1,36 @@
+# SPDX-License-Identifier: LicenseRef-ITCMS-Free-1.0
+# DNS Change Alert Module - Git Ignore File
+
+# Runtime Configuration (contains sensitive data)
+/config/config.php
+
+# Log Files
+/logs/*.log
+/logs/*.lock
+/logs/last_cleanup.txt
+/logs/*.txt
+
+# Temporary Files
+*.swp
+*.bak
+*.tmp
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup Files
+*.sql.bak
+*.php.bak
+backup/
+
+# User-specific data
+/config/custom_*.php
