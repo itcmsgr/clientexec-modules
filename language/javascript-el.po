@@ -1,0 +1,1383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: i18n@clientexec.com\n"
+"POT-Creation-Date: 2014-06-04 17:15-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ITCMS  Antonios Voulvoulis\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Invalid Email format for field %."
+msgstr "Μη έγκυρη μορφή email για το πεδίο %."
+
+msgid "The field % can't be empty."
+msgstr "Το πεδίο % δεν μπορεί να είναι κενό."
+
+msgid "The following form field(s) were incomplete or incorrect"
+msgstr "Το/τα ακόλουθο/α πεδίο/α της φόρμας ήταν ελλιπή ή λανθασμένα"
+
+msgid "Please complete or correct the form and submit again."
+msgstr "Παρακαλούμε συμπληρώστε ή διορθώστε τη φόρμα και υποβάλετε ξανά."
+
+msgid "Visa is not accepted at this time"
+msgstr "Η Visa δεν γίνεται δεκτή αυτή τη στιγμή"
+
+msgid "MasterCard is not accepted at this time"
+msgstr "Η MasterCard δεν γίνεται δεκτή αυτή τη στιγμή"
+
+msgid "American Express is not accepted at this time"
+msgstr "Η American Express δεν γίνεται δεκτή αυτή τη στιγμή"
+
+msgid "Discover is not accepted at this time"
+msgstr "Η Discover δεν γίνεται δεκτή αυτή τη στιγμή"
+
+msgid "LaserCard is not accepted at this time"
+msgstr "Η LaserCard δεν γίνεται δεκτή αυτή τη στιγμή"
+
+msgid "Diners Club is not accepted at this time"
+msgstr "Η Diners Club δεν γίνεται δεκτή αυτή τη στιγμή"
+
+msgid "Switch is not accepted at this time"
+msgstr "Η Switch δεν γίνεται δεκτή αυτή τη στιγμή"
+
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+msgid "Option"
+msgstr "Επιλογή"
+
+msgid "Prices will be multiplied by the quantity"
+msgstr "Οι τιμές θα πολλαπλασιαστούν με την ποσότητα"
+
+msgid "Validating..."
+msgstr "Επικύρωση..."
+
+msgid "Valid VAT Number"
+msgstr "Έγκυρος Αριθμός ΦΠΑ"
+
+msgid "Invalid VAT Number"
+msgstr "Μη Έγκυρος Αριθμός ΦΠΑ"
+
+msgid "Retry"
+msgstr "Επανάληψη"
+
+msgid "Unable to validate at the moment."
+msgstr "Αδυναμία επικύρωσης αυτή τη στιγμή."
+
+msgid "This field is required"
+msgstr "Αυτό το πεδίο είναι υποχρεωτικό"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "No Active Chats"
+msgstr "Δεν υπάρχουν Ενεργές Συνομιλίες"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Are you sure you want to delete this message?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το μήνυμα;"
+
+msgid "Your reply:"
+msgstr "Η απάντησή σας:"
+
+msgid "Your status:"
+msgstr "Η κατάστασή σας:"
+
+msgid "Domain"
+msgstr "Domain"
+
+msgid "Expiry Date"
+msgstr "Ημερομηνία Λήξης"
+
+msgid "View PDF Invoice"
+msgstr "Προβολή Τιμολογίου PDF"
+
+msgid "Enter your passphrase:"
+msgstr "Εισάγετε τον κωδικό πρόσβασής σας:"
+
+msgid "Invoice"
+msgstr "Τιμολόγιο"
+
+msgid "Due"
+msgstr "Οφειλόμενο"
+
+msgid "Gateway"
+msgstr "Πύλη Πληρωμής"
+
+msgid "Pmt Reference"
+msgstr "Αναφορά Πληρωμής"
+
+msgid "Balance Due"
+msgstr "Υπόλοιπο Οφειλής"
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "Add Payment Reference"
+msgstr "Προσθήκη Αναφοράς Πληρωμής"
+
+msgid "Viewing Invoices"
+msgstr "Προβολή Τιμολογίων"
+
+msgid "Are sure you want to cancel the subscription tied to this invoice?"
+msgstr "Είστε σίγουροι ότι θέλετε να ακυρώσετε τη συνδρομή που συνδέεται με αυτό το τιμολόγιο;"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "Do you want to send a receipt?"
+msgstr "Θέλετε να στείλετε μια απόδειξη;"
+
+msgid "Are sure you want to delete the selected invoice(s)."
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το/τα επιλεγμένο/α τιμολόγιο/α; "
+
+msgid "Amount"
+msgstr "Ποσό"
+
+msgid "Add optional information"
+msgstr "Προσθήκη προαιρετικών πληροφοριών"
+
+msgid "Remove Optional Information"
+msgstr "Αφαίρεση Προαιρετικών Πληροφοριών"
+
+msgid "Payment Reference (Optional)"
+msgstr "Αναφορά Πληρωμής (Προαιρετική)"
+
+msgid "Payment Date (Optional)"
+msgstr "Ημερομηνία Πληρωμής (Προαιρετική)"
+
+msgid "Payment Time (Optional)"
+msgstr "Ώρα Πληρωμής (Προαιρετική)"
+
+msgid "Payment Processor (Optional)"
+msgstr "Επεξεργαστής Πληρωμών (Προαιρετικός)"
+
+msgid "Some invoices are not due. Are you sure you want to proceed?"
+msgstr "Ορισμένα τιμολόγια δεν είναι οφειλόμενα. Είστε σίγουροι ότι θέλετε να προχωρήσετε;"
+
+msgid "OK"
+msgstr "ΟΚ"
+
+msgid "Are you sure you want to process the selected account(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να επεξεργαστείτε το/τα επιλεγμένο/α λογαριασμό/ούς;"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Transaction ID"
+msgstr "Αριθμός Συναλλαγής"
+
+msgid "Transaction Id"
+msgstr "Αριθμός Συναλλαγής"
+
+msgid "Result"
+msgstr "Αποτέλεσμα"
+
+msgid "Action"
+msgstr "Ενέργεια"
+
+msgid "Plugin"
+msgstr "Πρόσθετο"
+
+msgid "Share information"
+msgstr "Κοινή χρήση πληροφοριών"
+
+msgid "Add License(s)"
+msgstr "Προσθήκη Άδειας/ων"
+
+msgid "Add License(s) to"
+msgstr "Προσθήκη Άδειας/ων σε"
+
+msgid "Are you sure you want to delete the selected license(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε την/τις επιλεγμένη/ες άδεια/ες"
+
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "Attributes"
+msgstr "Ιδιότητες"
+
+msgid "Reseller"
+msgstr "Μεταπωλητής"
+
+msgid "Are you sure you want to delete the selected resellers(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τον/τους επιλεγμένο/ους μεταπωλητή/ές"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "Used"
+msgstr "Χρησιμοποιήθηκε"
+
+msgid "Add Reseller"
+msgstr "Προσθήκη Μεταπωλητή"
+
+msgid "Advanced Search"
+msgstr "Σύνθετη Αναζήτηση"
+
+msgid "Ticket Search"
+msgstr "Αναζήτηση Ticket"
+
+msgid "Jan"
+msgstr "Ιαν"
+
+msgid "Feb"
+msgstr "Φεβ"
+
+msgid "Mar"
+msgstr "Μαρ"
+
+msgid "Apr"
+msgstr "Απρ"
+
+msgid "May"
+msgstr "Μαι"
+
+msgid "Jun"
+msgstr "Ιουν"
+
+msgid "Jul"
+msgstr "Ιουλ"
+
+msgid "Aug"
+msgstr "Αυγ"
+
+msgid "Sep"
+msgstr "Σεπ"
+
+msgid "Oct"
+msgstr "Οκτ"
+
+msgid "Nov"
+msgstr "Νοε"
+
+msgid "Dec"
+msgstr "Δεκ"
+
+msgid "January"
+msgstr "Ιανουάριος"
+
+msgid "February"
+msgstr "Φεβρουάριος"
+
+msgid "March"
+msgstr "Μάρτιος"
+
+msgid "April"
+msgstr "Απρίλιος"
+
+msgid "June"
+msgstr "Ιούνιος"
+
+msgid "July"
+msgstr "Ιούλιος"
+
+msgid "August"
+msgstr "Αύγουστος"
+
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+msgid "October"
+msgstr "Οκτώβριος"
+
+msgid "November"
+msgstr "Νοέμβριος"
+
+msgid "December"
+msgstr "Δεκέμβριος"
+
+msgid "Sun"
+msgstr "Κυρ"
+
+msgid "Mon"
+msgstr "Δευ"
+
+msgid "Tue"
+msgstr "Τρι"
+
+msgid "Wed"
+msgstr "Τετ"
+
+msgid "Thu"
+msgstr "Πεμ"
+
+msgid "Fri"
+msgstr "Παρ"
+
+msgid "Sat"
+msgstr "Σαβ"
+
+msgid "Sunday"
+msgstr "Κυριακή"
+
+msgid "Monday"
+msgstr "Δευτέρα"
+
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+msgid "Friday"
+msgstr "Παρασκευή"
+
+msgid "Saturday"
+msgstr "Σάββατο"
+
+msgid "Loading"
+msgstr "Φόρτωση"
+
+msgid "Quick Search"
+msgstr "Γρήγορη Αναζήτηση"
+
+msgid ""
+"NOTE: This operation will move all the tickets from this Email to the user whose ID you will enter.\n"
+"Also, this Email will be added as an alternate address for future support requests from this user."
+msgstr ""
+"ΣΗΜΕΙΩΣΗ: Αυτή η ενέργεια θα μεταφέρει όλα τα tickets από αυτό το Email στον χρήστη του οποίου το ID θα "
+"εισάγετε.\n"
+"Επίσης, αυτό το Email θα προστεθεί ως εναλλακτική διεύθυνση για μελλοντικά αιτήματα υποστήριξης από αυτόν τον "
+"χρήστη."
+
+msgid "Migrate Guest to User ID:"
+msgstr "Μεταφορά Επισκέπτη σε ID Χρήστη:"
+
+msgid "My Notes"
+msgstr "Οι Σημειώσεις μου"
+
+msgid "Add Staff Note"
+msgstr "Προσθήκη Σημείωσης Προσωπικού"
+
+msgid "Add Support Ticket"
+msgstr "Προσθήκη Ticket Υποστήριξης"
+
+msgid "You must fill in all the required fields before submitting your ticket."
+msgstr "Πρέπει να συμπληρώσετε όλα τα υποχρεωτικά πεδία πριν υποβάλετε το ticket σας."
+
+msgid "There was an error with this operation"
+msgstr "Παρουσιάστηκε σφάλμα σε αυτήν την ενέργεια"
+
+msgid "Email Client"
+msgstr "Πελάτης Email"
+
+msgid "Loading..."
+msgstr "Φόρτωση..."
+
+msgid "No data available in table"
+msgstr "Δεν υπάρχουν διαθέσιμα δεδομένα στον πίνακα"
+
+msgid "Showing % to % of % entries"
+msgstr "Εμφάνιση % έως % από % καταχωρήσεις"
+
+msgid "_START_"
+msgstr "_START_"
+
+msgid "_END_"
+msgstr "_END_"
+
+msgid "_TOTAL_"
+msgstr "_TOTAL_"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Εμφάνιση 0 έως 0 από 0 καταχωρήσεις"
+
+msgid "filtered from % total entries"
+msgstr "φιλτραρισμένο από % συνολικές καταχωρήσεις"
+
+msgid "_MAX_"
+msgstr "_MAX_"
+
+msgid "Show % entries"
+msgstr "Εμφάνιση % καταχωρήσεων"
+
+msgid "Search:"
+msgstr "Αναζήτηση:"
+
+msgid "No matching records found"
+msgstr "Δεν βρέθηκαν αντίστοιχες εγγραφές"
+
+msgid "<<"
+msgstr "<<"
+
+msgid ">>"
+msgstr ">>"
+
+msgid ">"
+msgstr ">"
+
+msgid "<"
+msgstr "<"
+
+msgid "activate to sort column ascending"
+msgstr "ενεργοποιήστε για ταξινόμηση στήλης σε αύξουσα σειρά"
+
+msgid "activate to sort column descending"
+msgstr "ενεργοποιήστε για ταξινόμηση στήλης σε φθίνουσα σειρά"
+
+msgid "This value seems to be invalid."
+msgstr "Αυτή η τιμή φαίνεται να είναι μη έγκυρη."
+
+msgid "This value should be a valid email."
+msgstr "Αυτή η τιμή πρέπει να είναι έγκυρο email."
+
+msgid "This value should be a valid url."
+msgstr "Αυτή η τιμή πρέπει να είναι έγκυρη διεύθυνση URL."
+
+msgid "This value should be a valid number."
+msgstr "Αυτή η τιμή πρέπει να είναι έγκυρος αριθμός."
+
+msgid "This value should be digits."
+msgstr "Αυτή η τιμή πρέπει να αποτελείται από ψηφία."
+
+msgid "This value should be a valid date (YYYY-MM-DD)."
+msgstr "Αυτή η τιμή πρέπει να είναι έγκυρη ημερομηνία (ΕΕΕΕ-ΜΜ-ΗΗ)."
+
+msgid "This value should be alphanumeric."
+msgstr "Αυτή η τιμή πρέπει να είναι αλφαριθμητική."
+
+msgid "This value should be a valid phone number."
+msgstr "Αυτή η τιμή πρέπει να είναι έγκυρος αριθμός τηλεφώνου."
+
+msgid "This value should not be null."
+msgstr "Αυτή η τιμή δεν πρέπει να είναι μηδενική."
+
+msgid "This value should not be blank."
+msgstr "Αυτή η τιμή δεν πρέπει να είναι κενή."
+
+msgid "This value is required."
+msgstr "Αυτή η τιμή είναι υποχρεωτική."
+
+msgid "This value should be greater than or equal to %s."
+msgstr "Αυτή η τιμή πρέπει να είναι μεγαλύτερη ή ίση με %s."
+
+msgid "This value should be lower than or equal to %s."
+msgstr "Αυτή η τιμή πρέπει να είναι μικρότερη ή ίση με %s."
+
+msgid "This value should be between %s and %s."
+msgstr "Αυτή η τιμή πρέπει να είναι μεταξύ %s και %s."
+
+msgid "This value is too short. It should have %s characters or more."
+msgstr "Αυτή η τιμή είναι πολύ μικρή. Πρέπει να έχει %s χαρακτήρες ή περισσότερους."
+
+msgid "This value is too long. It should have %s characters or less."
+msgstr "Αυτή η τιμή είναι πολύ μεγάλη. Πρέπει να έχει %s χαρακτήρες ή λιγότερους."
+
+msgid "This value length is invalid. It should be between %s and %s characters long."
+msgstr "Το μήκος αυτής της τιμής είναι μη έγκυρο. Πρέπει να είναι μεταξύ %s και %s χαρακτήρων."
+
+msgid "You must select at least %s choices."
+msgstr "Πρέπει να επιλέξετε τουλάχιστον %s επιλογές."
+
+msgid "You must select %s choices or less."
+msgstr "Πρέπει να επιλέξετε %s επιλογές ή λιγότερες."
+
+msgid "You must select between %s and %s choices."
+msgstr "Πρέπει να επιλέξετε μεταξύ %s και %s επιλογών."
+
+msgid "This value should be the same."
+msgstr "Αυτή η τιμή πρέπει να είναι η ίδια."
+
+msgid "Loading Graph"
+msgstr "Φόρτωση Γραφήματος"
+
+msgid "NOTICE:"
+msgstr "ΕΙΔΟΠΟΙΗΣΗ:"
+
+msgid "You have modified the availability to some Product Groups."
+msgstr "Έχετε τροποποιήσει τη διαθεσιμότητα σε ορισμένες Ομάδες Προϊόντων."
+
+msgid "Do you want existing clients to continue being charged this addon?"
+msgstr "Θέλετε οι υπάρχοντες πελάτες να συνεχίσουν να χρεώνονται για αυτό το πρόσθετο;"
+
+msgid "Plugin Variable"
+msgstr "Μεταβλητή Πρόσθετου"
+
+msgid "Used in products"
+msgstr "Χρησιμοποιείται σε προϊόντα"
+
+msgid "Not used in any products"
+msgstr "Δεν χρησιμοποιείται σε κανένα προϊόν"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Post Date"
+msgstr "Ημερομηνία Δημοσίευσης"
+
+msgid "Published"
+msgstr "Δημοσιεύθηκε"
+
+msgid "Pinned"
+msgstr "Καρφιτσωμένο"
+
+msgid "Add Announcement"
+msgstr "Προσθήκη Ανακοίνωσης"
+
+msgid "Are you sure you want to delete the selected announcement(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε την/τις επιλεγμένη/ες ανακοίνωση/εις"
+
+msgid "Are you sure you want to delete the selected client groups(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε την/τις επιλεγμένη/ες ομάδα/ες πελατών;"
+
+msgid "Description:"
+msgstr "Περιγραφή:"
+
+msgid "Group"
+msgstr "Ομάδα"
+
+msgid "Color"
+msgstr "Χρώμα"
+
+msgid "Members"
+msgstr "Μέλη"
+
+msgid "Add/Edit Client Group"
+msgstr "Προσθήκη/Επεξεργασία Ομάδας Πελατών"
+
+msgid "Your secret key"
+msgstr "Το μυστικό σας κλειδί"
+
+msgid "Event Name"
+msgstr "Όνομα Εκδήλωσης"
+
+msgid "From Name"
+msgstr "Όνομα Αποστολέα"
+
+msgid "From Email"
+msgstr "Email Αποστολέα"
+
+msgid "Notified"
+msgstr "Ειδοποιήθηκε"
+
+msgid "Last Notified"
+msgstr "Τελευταία Ειδοποίηση"
+
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+msgid "Notification Window"
+msgstr "Παράθυρο Ειδοποίησης"
+
+msgid ""
+"Are you sure you want to reset the selected notification(s)?<br>Doing so will allow the notification(s) to "
+"email again the previously ignored clients."
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να επαναφέρετε την/τις επιλεγμένη/ες ειδοποίηση/εις;<br>Κάνοντας αυτό θα επιτρέψετε "
+"στην/στις ειδοποίηση/εις να στείλει/ουν ξανά email στους πελάτες που είχαν προηγουμένως αγνοηθεί."
+
+msgid "Are you sure you want to delete the selected notification(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε την/τις επιλεγμένη/ες ειδοποίηση/εις;"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Display Type"
+msgstr "Τύπος Εμφάνισης"
+
+msgid "WARNING!"
+msgstr "ΠΡΟΕΙΔΟΠΟΙΗΣΗ!"
+
+msgid "Are you sure you want to add/update the selected addon?"
+msgstr "Είστε σίγουροι ότι θέλετε να προσθέσετε/ενημερώσετε το επιλεγμένο πρόσθετο;"
+
+msgid "Drop-down menus"
+msgstr "Αναπτυσσόμενα μενού"
+
+msgid "Radio buttons"
+msgstr "Κουμπιά επιλογής (Radio buttons)"
+
+msgid ""
+"If the addon is been added, existing clients will be applied the default value: 'None' option if available, or "
+"the first option if not."
+msgstr ""
+"Εάν έχει προστεθεί το πρόσθετο, στους υπάρχοντες πελάτες θα εφαρμοστεί η προεπιλεγμένη τιμή: η επιλογή "
+"'Κανένα' εάν είναι διαθέσιμη, ή η πρώτη επιλογή εάν όχι."
+
+msgid "If the addon is been updated to quantity type, existing clients will use a quantity of 1 by default."
+msgstr ""
+"Εάν το πρόσθετο ενημερωθεί σε τύπο ποσότητας, οι υπάρχοντες πελάτες θα χρησιμοποιήσουν ποσότητα 1 εξ ορισμού."
+
+msgid ""
+"If the addon is been updated from quantity type to a different type, existing clients will change their "
+"quantity to 1."
+msgstr ""
+"Εάν το πρόσθετο ενημερωθεί από τύπο ποσότητας σε διαφορετικό τύπο, οι υπάρχοντες πελάτες θα αλλάξουν την "
+"ποσότητά τους σε 1."
+
+msgid "Billing Period(s)"
+msgstr "Περίοδος/οι Χρέωσης"
+
+msgid "Price"
+msgstr "Τιμή"
+
+msgid "Transfer"
+msgstr "Μεταφορά"
+
+msgid "N/A"
+msgstr "Δ/Υ"
+
+msgid "Renew"
+msgstr "Ανανέωση"
+
+msgid "Are you sure you want to delete the selected TLD billing period(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε την/τις επιλεγμένη/ες περίοδο/ους χρέωσης TLD"
+
+msgid "TLD Setup Window"
+msgstr "Παράθυρο Ρύθμισης TLD"
+
+msgid "Pricing"
+msgstr "Τιμολόγηση"
+
+msgid "Addons"
+msgstr "Πρόσθετα"
+
+msgid "Upgrade/Downgrade"
+msgstr "Αναβάθμιση/Υποβάθμιση"
+
+msgid "Advanced & Plugin Settings"
+msgstr "Προηγμένες Ρυθμίσεις & Ρυθμίσεις Πρόσθετων"
+
+msgid "Are you sure you want to delete this product group"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτήν την ομάδα προϊόντων"
+
+msgid "Are you sure you want to delete the selected product(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το/τα επιλεγμένο/α προϊόν/τα"
+
+msgid "Late Fee"
+msgstr "Τέλος Καθυστέρησης"
+
+msgid "Tax"
+msgstr "Φόρος"
+
+msgid "Signup?"
+msgstr "Εγγραφή;"
+
+msgid "Hidden"
+msgstr "Κρυφό"
+
+msgid "Product Group Window"
+msgstr "Παράθυρο Ομάδας Προϊόντων"
+
+msgid "You must save your server first"
+msgstr "Πρέπει πρώτα να αποθηκεύσετε τον διακομιστή σας"
+
+msgid "Are you sure you want to delete the selected servers(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τον/τους επιλεγμένο/ους διακομιστή/ές"
+
+msgid "No status message"
+msgstr "Χωρίς μήνυμα κατάστασης"
+
+msgid "Status Message:"
+msgstr "Μήνυμα Κατάστασης:"
+
+msgid "Server Name"
+msgstr "Όνομα Διακομιστή"
+
+msgid "Hostname"
+msgstr "Όνομα Κεντρικού Υπολογιστή (Hostname)"
+
+msgid "Shared IP"
+msgstr "Κοινόχρηστη IP"
+
+msgid "Quota"
+msgstr "Όριο"
+
+msgid "Monthly Cost"
+msgstr "Μηνιαίο Κόστος"
+
+msgid "DataCenter / Provider"
+msgstr "Κέντρο Δεδομένων / Πάροχος"
+
+msgid "New API Key has been generated"
+msgstr "Έχει δημιουργηθεί νέο κλειδί API"
+
+msgid "Are you sure you want to delete the selected billing cycle(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τον/τους επιλεγμένο/ους κύκλο/ους χρέωσης"
+
+msgid "Time Unit"
+msgstr "Μονάδα Χρόνου"
+
+msgid "Amount of Units"
+msgstr "Ποσότητα Μονάδων"
+
+msgid "Recurring Fees"
+msgstr "Επαναλαμβανόμενες Χρεώσεις"
+
+msgid "Add/Edit Billing Cycle"
+msgstr "Προσθήκη/Επεξεργασία Κύκλου Χρέωσης"
+
+msgid "Archive"
+msgstr "Αρχειοθέτηση"
+
+msgid "Unarchive"
+msgstr "Κατάργηση Αρχειοθέτησης"
+
+msgid "Are you sure you want to delete the selected billing types(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τον/τους επιλεγμένο/ους τύπο/ους χρέωσης"
+
+msgid "Invoice Description"
+msgstr "Περιγραφή Τιμολογίου"
+
+msgid "Count"
+msgstr "Πλήθος"
+
+msgid "Add/Edit Billing Type"
+msgstr "Προσθήκη/Επεξεργασία Τύπου Χρέωσης"
+
+msgid "Are you sure you want to delete the selected email templates(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το/τα επιλεγμένο/α πρότυπο/α email;"
+
+msgid "You can not delete the system email templates."
+msgstr "Δεν μπορείτε να διαγράψετε τα πρότυπα email συστήματος."
+
+msgid "Email Template Window"
+msgstr "Παράθυρο Προτύπου Email"
+
+msgid "Code"
+msgstr "Κωδικός"
+
+msgid "Are you sure you want to delete the selected coupon(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το/τα επιλεγμένο/α κουπόνι/α;"
+
+msgid "Are you sure you want to unarchive the selected coupon(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να καταργήσετε την αρχειοθέτηση του/των επιλεγμένου/ων κουπονιού/ών;"
+
+msgid "Are you sure you want to archive the selected coupon(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να αρχειοθετήσετε το/τα επιλεγμένο/α κουπόνι/α;"
+
+msgid "Discount"
+msgstr "Έκπτωση"
+
+msgid "Recurring"
+msgstr "Επαναλαμβανόμενο"
+
+msgid "Billing Cycles"
+msgstr "Κύκλοι Χρέωσης"
+
+msgid "In Effect"
+msgstr "Σε Ισχύ"
+
+msgid "Currency Name"
+msgstr "Όνομα Νομίσματος"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid "Symbol"
+msgstr "Σύμβολο"
+
+msgid "Alignment"
+msgstr "Στοίχιση"
+
+msgid "Precision"
+msgstr "Ακρίβεια"
+
+msgid "Rate"
+msgstr "Ισοτιμία"
+
+msgid "Please select only one currency for the default"
+msgstr "Παρακαλούμε επιλέξτε μόνο ένα νόμισμα για την προεπιλογή"
+
+msgid "Are you sure you want to delete the selected currencies?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τα επιλεγμένα νομίσματα;"
+
+msgid "Add/Edit Currency"
+msgstr "Προσθήκη/Επεξεργασία Νομίσματος"
+
+msgid "Custom fields reordered successfully"
+msgstr "Τα προσαρμοσμένα πεδία αναδιατάχθηκαν επιτυχώς"
+
+msgid "Enter the name of the new custom field"
+msgstr "Εισάγετε το όνομα του νέου προσαρμοσμένου πεδίου"
+
+msgid " added to custom fields."
+msgstr " προστέθηκε στα προσαρμοσμένα πεδία."
+
+msgid " saved successfully."
+msgstr " αποθηκεύτηκε επιτυχώς."
+
+msgid "Are you sure you want to delete "
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε "
+
+msgid "Custom field created by plugin:"
+msgstr "Προσαρμοσμένο πεδίο που δημιουργήθηκε από πρόσθετο:"
+
+msgid "Are you sure you want to delete the selected departments(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το/τα επιλεγμένο/α τμήμα/τα"
+
+msgid "Department Name"
+msgstr "Όνομα Τμήματος"
+
+msgid "Lead"
+msgstr "Υπεύθυνος"
+
+msgid "Add/Edit Department"
+msgstr "Προσθήκη/Επεξεργασία Τμήματος"
+
+msgid "Users Affected"
+msgstr "Επηρεαζόμενοι Χρήστες"
+
+msgid "Source"
+msgstr "Πηγή"
+
+msgid "Email’s Checked"
+msgstr "Email που Ελέγχθηκαν"
+
+msgid "Open Ticket ?"
+msgstr "Άνοιγμα Ticket;"
+
+msgid "Autoresponder"
+msgstr "Αυτόματη Απάντηση"
+
+msgid "Are you sure you want to delete the selected routing rules(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τον/τους επιλεγμένο/ους κανόνα/ες δρομολόγησης"
+
+msgid "Are you sure you want to delete the selected alias(es)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το/τα επιλεγμένο/α ψευδώνυμο/α"
+
+msgid "Alias To"
+msgstr "Ψευδώνυμο Προς"
+
+msgid "System Status"
+msgstr "Κατάσταση Συστήματος"
+
+msgid "Add/Edit Status Alias"
+msgstr "Προσθήκη/Επεξεργασία Ψευδωνύμου Κατάστασης"
+
+msgid "Gateway updated properly"
+msgstr "Η πύλη πληρωμής ενημερώθηκε σωστά"
+
+msgid "Already selected"
+msgstr "Ήδη επιλεγμένο"
+
+msgid "Billing Profile IDs successfully deleted"
+msgstr "Τα IDs Προφίλ Χρέωσης διαγράφηκαν επιτυχώς"
+
+msgid "Are you sure you want to delete the selected spam filter(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το/τα επιλεγμένο/α φίλτρο/α spam"
+
+msgid "Value"
+msgstr "Τιμή"
+
+msgid "Enabled?"
+msgstr "Ενεργοποιημένο;"
+
+msgid "Manage Spam Filter"
+msgstr "Διαχείριση Φίλτρου Spam"
+
+msgid "All (Default)"
+msgstr "Όλα (Προεπιλογή)"
+
+msgid "Country"
+msgstr "Χώρα"
+
+msgid "Division"
+msgstr "Διαίρεση"
+
+msgid "Level"
+msgstr "Επίπεδο"
+
+msgid "Compound"
+msgstr "Σύνθετο"
+
+msgid "VAT"
+msgstr "ΦΠΑ"
+
+msgid "Add/Edit Tax Rule"
+msgstr "Προσθήκη/Επεξεργασία Κανόνα Φόρου"
+
+msgid "Click to edit this ticket type"
+msgstr "Κάντε κλικ για να επεξεργαστείτε αυτόν τον τύπο ticket"
+
+msgid "Are you sure you want to delete the selected ticket types(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τον/τους επιλεγμένο/ους τύπο/ους ticket;"
+
+msgid "None"
+msgstr "Κανένα"
+
+msgid "Tickets"
+msgstr "Tickets"
+
+msgid "Manage Ticket Type"
+msgstr "Διαχείριση Τύπου Ticket"
+
+msgid "No staff available - click to add your first staff member to this group"
+msgstr ""
+"Δεν υπάρχει διαθέσιμο προσωπικό - κάντε κλικ για να προσθέσετε το πρώτο μέλος προσωπικού σε αυτήν την ομάδα"
+
+msgid "Are you sure you want to delete this role?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτόν τον ρόλο;"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Add Staff"
+msgstr "Προσθήκη Προσωπικού"
+
+msgid "Role Name"
+msgstr "Όνομα Ρόλου"
+
+msgid ""
+"Are you sure you want to delete this account? WARNING: All support ticket information for this user will be "
+"replaced to generic Tech Support"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να διαγράψετε αυτόν τον λογαριασμό; ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Όλες οι πληροφορίες ticket "
+"υποστήριξης για αυτόν τον χρήστη θα αντικατασταθούν με γενική Τεχνική Υποστήριξη"
+
+msgid "Are you sure you want to activate the follow clients as affiliates?"
+msgstr "Είστε σίγουροι ότι θέλετε να ενεργοποιήσετε τους παρακάτω πελάτες ως συνεργάτες (affiliates);"
+
+msgid "Are you sure you want to decline the follow clients as affiliates?"
+msgstr "Είστε σίγουροι ότι θέλετε να απορρίψετε τους παρακάτω πελάτες ως συνεργάτες (affiliates);"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Visitors"
+msgstr "Επισκέπτες"
+
+msgid "Sales"
+msgstr "Πωλήσεις"
+
+msgid "Unpaid Balance"
+msgstr "Ανεξόφλητο Υπόλοιπο"
+
+msgid "Total Paid"
+msgstr "Συνολικά Πληρωθέντα"
+
+msgid "No name entered"
+msgstr "Δεν καταχωρήθηκε όνομα"
+
+msgid "Package"
+msgstr "Πακέτο"
+
+msgid "Are you sure you want to approve these commissions?"
+msgstr "Είστε σίγουροι ότι θέλετε να εγκρίνετε αυτές τις προμήθειες;"
+
+msgid "Are you sure you want to decline these commissions?"
+msgstr "Είστε σίγουροι ότι θέλετε να απορρίψετε αυτές τις προμήθειες;"
+
+msgid "Are you sure you want to manually mark these commissions as paid out?"
+msgstr "Είστε σίγουροι ότι θέλετε να σημειώσετε χειροκίνητα αυτές τις προμήθειες ως πληρωμένες;"
+
+msgid "Client"
+msgstr "Πελάτης"
+
+msgid "Affiliate"
+msgstr "Συνεργάτης (Affiliate)"
+
+msgid "Clearing Date"
+msgstr "Ημερομηνία Εκκαθάρισης"
+
+msgid "Order Value"
+msgstr "Αξία Παραγγελίας"
+
+msgid "Commission"
+msgstr "Προμήθεια"
+
+msgid "Enter the invoice id:"
+msgstr "Εισάγετε το id του τιμολογίου:"
+
+msgid "Response"
+msgstr "Απάντηση"
+
+msgid "Edited on"
+msgstr "Επεξεργάστηκε στις"
+
+msgid "Are you sure you want to delete this charge? If yes please make sure you also click <b>Save Changes</b>"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να διαγράψετε αυτήν τη χρέωση; Εάν ναι, βεβαιωθείτε ότι κάνατε κλικ και στο "
+"<b>Αποθήκευση Αλλαγών</b>"
+
+msgid "Are you sure you want to split this charge into a new invoice?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαχωρίσετε αυτήν τη χρέωση σε ένα νέο τιμολόγιο;"
+
+msgid "Add period start and end dates"
+msgstr "Προσθήκη ημερομηνιών έναρξης και λήξης περιόδου"
+
+msgid "Period Dates"
+msgstr "Ημερομηνίες Περιόδου"
+
+msgid "Start"
+msgstr "Έναρξη"
+
+msgid "End"
+msgstr "Λήξη"
+
+msgid "Select date"
+msgstr "Επιλέξτε ημερομηνία"
+
+msgid "Stop Processing"
+msgstr "Διακοπή Επεξεργασίας"
+
+msgid "Please wait"
+msgstr "Παρακαλώ περιμένετε"
+
+msgid "Preparing data"
+msgstr "Προετοιμασία δεδομένων"
+
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+msgid "Generating Invoice(s)"
+msgstr "Δημιουργία Τιμολογίου/ων"
+
+msgid "Processing Invoice(s)"
+msgstr "Επεξεργασία Τιμολογίου/ων"
+
+msgid "Viewing all failed invoices."
+msgstr "Προβολή όλων των αποτυχημένων τιμολογίων."
+
+msgid "Viewing all paid invoices."
+msgstr "Προβολή όλων των πληρωμένων τιμολογίων."
+
+msgid "Outstanding Amount"
+msgstr "Εκκρεμές Ποσό"
+
+msgid "User id field may not be left blank"
+msgstr "Το πεδίο αναγνωριστικού χρήστη δεν μπορεί να παραμείνει κενό"
+
+msgid "Viewing all invoices that are past their due date, but not paid."
+msgstr "Προβολή όλων των τιμολογίων που έχουν παρέλθει την ημερομηνία λήξης τους, αλλά δεν έχουν πληρωθεί."
+
+msgid "Viewing all invoices that have not been paid."
+msgstr "Προβολή όλων των τιμολογίων που δεν έχουν πληρωθεί."
+
+msgid "Viewing all invoices."
+msgstr "Προβολή όλων των τιμολογίων."
+
+msgid "Viewing invoices for a filtered user."
+msgstr "Προβολή τιμολογίων για φιλτραρισμένο χρήστη."
+
+msgid "Viewing pending invoices. Invoices that have been sent to a merchant but not cleared.  i.e. eChecks"
+msgstr ""
+"Προβολή εκκρεμών τιμολογίων. Τιμολόγια που έχουν σταλεί σε έμπορο αλλά δεν έχουν εκκαθαριστεί. π.χ. "
+"Ηλεκτρονικές επιταγές (eChecks)"
+
+msgid "Viewing all draft invoices. These invoices are not ready to be processed."
+msgstr "Προβολή όλων των πρόχειρων τιμολογίων. Αυτά τα τιμολόγια δεν είναι έτοιμα για επεξεργασία."
+
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+msgid "Client Name"
+msgstr "Όνομα Πελάτη"
+
+msgid "Failed Reason"
+msgstr "Λόγος Αποτυχίας"
+
+msgid "Start Date"
+msgstr "Ημερομηνία Έναρξης"
+
+msgid "End Date"
+msgstr "Ημερομηνία Λήξης"
+
+msgid "Are you sure you want to delete the selected charges(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τη/τις επιλεγμένη/ες χρέωση/εις"
+
+msgid "Are you sure you want to create invoice(s) with the selected charges(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να δημιουργήσετε τιμολόγιο/α με τη/τις επιλεγμένη/ες χρέωση/εις"
+
+msgid "Due Date"
+msgstr "Ημερομηνία Λήξης"
+
+msgid "Do you wish to activate this clients packages as well?"
+msgstr "Επιθυμείτε να ενεργοποιήσετε και τα πακέτα αυτού του πελάτη;"
+
+msgid "Do you wish to use the server plugin to activate these packages?"
+msgstr "Επιθυμείτε να χρησιμοποιήσετε το πρόσθετο του διακομιστή για να ενεργοποιήσετε αυτά τα πακέτα;"
+
+msgid "Do you wish to suspend this clients packages as well?"
+msgstr "Επιθυμείτε να αναστείλετε και τα πακέτα αυτού του πελάτη;"
+
+msgid "Do you wish to use the server plugin to suspend these packages?"
+msgstr "Επιθυμείτε να χρησιμοποιήσετε το πρόσθετο του διακομιστή για να αναστείλετε αυτά τα πακέτα;"
+
+msgid "Do you wish to cancel this clients packages as well?"
+msgstr "Επιθυμείτε να ακυρώσετε και τα πακέτα αυτού του πελάτη;"
+
+msgid "Do you wish to use the server plugin to cancel these packages?"
+msgstr "Επιθυμείτε να χρησιμοποιήσετε το πρόσθετο του διακομιστή για να ακυρώσετε αυτά τα πακέτα;"
+
+msgid "Are you sure you wish to register this account?"
+msgstr "Είστε σίγουροι ότι επιθυμείτε να καταχωρήσετε αυτόν τον λογαριασμό;"
+
+msgid "There was an error when updating your status"
+msgstr "Παρουσιάστηκε σφάλμα κατά την ενημέρωση της κατάστασής σας"
+
+msgid "Status has been updated successfully"
+msgstr "Η κατάσταση ενημερώθηκε επιτυχώς"
+
+msgid "Subject"
+msgstr "Θέμα"
+
+msgid "To"
+msgstr "Προς"
+
+msgid "From"
+msgstr "Από"
+
+msgid "Are you sure you want to activate the selected packages(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να ενεργοποιήσετε το/τα επιλεγμένο/α πακέτο/α"
+
+msgid "Are you sure you want to delete the selected packages(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το/τα επιλεγμένο/α πακέτο/α"
+
+msgid "Do you want to delete this client if they have no packages?"
+msgstr "Θέλετε να διαγράψετε αυτόν τον πελάτη αν δεν έχει πακέτα;"
+
+msgid "Are you sure you want to cancel the selected package(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να ακυρώσετε το/τα επιλεγμένο/α πακέτο/α;"
+
+msgid "Are you sure you want to cancel the selected package(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να ακυρώσετε το/τα επιλεγμένο/α πακέτο/α"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Reason"
+msgstr "Λόγος"
+
+msgid "Request Date & Time"
+msgstr "Ημερομηνία & Ώρα Αίτησης"
+
+msgid "Cancel On"
+msgstr "Ακύρωση Στις"
+
+msgid "Invalid payment term for domain"
+msgstr "Μη έγκυρος όρος πληρωμής για το domain"
+
+msgid "Are you sure you want to % these domain(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να % αυτό/ά το/α domain/s;"
+
+msgid "Domain Name"
+msgstr "Όνομα Domain"
+
+msgid "Expiration"
+msgstr "Λήξη"
+
+msgid "Next Bill Date"
+msgstr "Επόμενη Ημερομηνία Χρέωσης"
+
+msgid "Period"
+msgstr "Περίοδος"
+
+msgid "Auto Renew"
+msgstr "Αυτόματη Ανανέωση"
+
+msgid "Registrar"
+msgstr "Καταχωρητής"
+
+msgid "Are you sure you want to % these package(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να % αυτό/ά το/α πακέτο/α;"
+
+msgid "Do you want to use the respective server plugin(s) to % these package(s)?"
+msgstr "Θέλετε να χρησιμοποιήσετε το/τα αντίστοιχο/α πρόσθετο/α διακομιστή για να % αυτό/ά το/α πακέτο/α;"
+
+msgid "CSR Details"
+msgstr "Λεπτομέρειες CSR"
+
+msgid "Reassign"
+msgstr "Εκ νέου Ανάθεση"
+
+msgid "Toggle"
+msgstr "Εναλλαγή"
+
+msgid "Are you sure you want to toggle the Registrar Lock option via the selected plugin?"
+msgstr "Είστε σίγουροι ότι θέλετε να αλλάξετε την επιλογή Κλειδώματος Καταχωρητή μέσω του επιλεγμένου πρόσθετου;"
+
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+msgid "Not Yet Registered"
+msgstr "Δεν Έχει Καταχωρηθεί Ακόμη"
+
+msgid "Select IP Address"
+msgstr "Επιλέξτε Διεύθυνση IP"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid ""
+"Point your domain to a web site by pointing to an IP Address, or forward to another site, or point to a "
+"temporary page (known as 'Parking'), and more. These records are also known as sub-domains (e.g. "
+"webmail.example.com)."
+msgstr ""
+"Στρέψτε το domain σας σε έναν ιστότοπο δείχνοντας σε μια Διεύθυνση IP, ή προωθήστε το σε άλλο ιστότοπο, ή "
+"δείξτε σε μια προσωρινή σελίδα (γνωστή ως 'Parking'), και άλλα. Αυτές οι εγγραφές είναι επίσης γνωστές ως sub-"
+"domains (π.χ. webmail.example.com)."
+
+msgid "The setting <strong>Use Defaults</strong> must be set to No if you want to add your own Name Server"
+msgstr ""
+"Η ρύθμιση <strong>Χρήση Προεπιλογών</strong> πρέπει να οριστεί σε Όχι εάν θέλετε να προσθέσετε τον δικό σας "
+"Name Server"
+
+msgid "Are you sure you want to % these certificate(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να % αυτό/ά το/α πιστοποιητικό/α;"
+
+msgid "Expiration Date"
+msgstr "Ημερομηνία Λήξης"
+
+msgid "Outstanding balance"
+msgstr "Εκκρεμές υπόλοιπο"
+
+msgid "Do you want to use the respective server plugins to delete all these users?"
+msgstr "Θέλετε να χρησιμοποιήσετε τα αντίστοιχα πρόσθετα διακομιστή για να διαγράψετε όλους αυτούς τους χρήστες;"
+
+msgid "Do you want to use the respective server plugins to cancel all these users?"
+msgstr "Θέλετε να χρησιμοποιήσετε τα αντίστοιχα πρόσθετα διακομιστή για να ακυρώσετε όλους αυτούς τους χρήστες;"
+
+msgid "Successfully validated credit cards"
+msgstr "Οι πιστωτικές κάρτες επικυρώθηκαν επιτυχώς"
+
+msgid "Client Type"
+msgstr "Τύπος Πελάτη"
+
+msgid "Activated"
+msgstr "Ενεργοποιημένο"
+
+msgid "Score"
+msgstr "Βαθμολογία"
+
+msgid "Currency"
+msgstr "Νόμισμα"
+
+msgid "Package Count"
+msgstr "Πλήθος Πακέτων"
+
+msgid "Add Client"
+msgstr "Προσθήκη Πελάτη"
+
+msgid "Validate CC"
+msgstr "Επικύρωση Πιστωτικής Κάρτας"
+
+msgid "Are you sure you want to delete the selected accounts(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τον/τους επιλεγμένο/ους λογαριασμό/ούς"
+
+msgid "Notifications?"
+msgstr "Ειδοποιήσεις;"
+
+msgid "Invoices?"
+msgstr "Τιμολόγια;"
+
+msgid "Support?"
+msgstr "Υποστήριξη;"
+
+msgid "Manage Alternate Account"
+msgstr "Διαχείριση Εναλλακτικού Λογαριασμού"
+
+msgid "Are you sure you want to register this client as an affiliate?"
+msgstr "Είστε σίγουροι ότι θέλετε να καταχωρήσετε αυτόν τον πελάτη ως συνεργάτη (affiliate);"
+
+msgid "Credit Card Number"
+msgstr "Αριθμός Πιστωτικής Κάρτας"
+
+msgid "<b>Are you sure you want to change the currency?</b>"
+msgstr "<b>Είστε σίγουροι ότι θέλετε να αλλάξετε το νόμισμα;</b>"
+
+msgid "Please note that changing the currency will not convert the price amount to existing charges."
+msgstr ""
+"Παρακαλούμε σημειώστε ότι η αλλαγή του νομίσματος δεν θα μετατρέψει το ποσό της τιμής σε υπάρχουσες χρεώσεις."
+
+msgid ""
+"You will need to review the prices on the existing invoices and recurring fees and reconfigure the packages "
+"and addons to make sure they are using prices for the new currency."
+msgstr ""
+"Θα χρειαστεί να ελέγξετε τις τιμές στα υπάρχοντα τιμολόγια και τις επαναλαμβανόμενες χρεώσεις και να "
+"αναδιαμορφώσετε τα πακέτα και τα πρόσθετα για να βεβαιωθείτε ότι χρησιμοποιούν τιμές για το νέο νόμισμα."
+
+msgid "Are you sure you want to delete the billing profile id on file?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το id του προφίλ χρέωσης στο αρχείο;"
+
+msgid "Are you sure you want to delete the credit card on file?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε την πιστωτική κάρτα στο αρχείο;"
+
+msgid "Update Billing Profile ID"
+msgstr "Ενημέρωση ID Προφίλ Χρέωσης"
+
+msgid "Add Credit"
+msgstr "Προσθήκη Πίστωσης"
+
+msgid "Remove Credit"
+msgstr "Αφαίρεση Πίστωσης"
+
+msgid "Are you sure you want to reset the password of this client?"
+msgstr "Είστε σίγουροι ότι θέλετε να επαναφέρετε τον κωδικό πρόσβασης αυτού του πελάτη;"
+
+msgid "Are you sure you want to export this client data?"
+msgstr "Είστε σίγουροι ότι θέλετε να εξαγάγετε τα δεδομένα αυτού του πελάτη;"
+
+msgid "Are you sure you want to delete this client?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτόν τον πελάτη;"
+
+msgid "Do you want to delete this client's packages using the respective server plugin(s)?"
+msgstr ""
+"Θέλετε να διαγράψετε τα πακέτα αυτού του πελάτη χρησιμοποιώντας το/τα αντίστοιχο/α πρόσθετο/α διακομιστή;"
+
+msgid "Associated to Ticket Type"
+msgstr "Συσχετισμένο με Τύπο Ticket"
+
+msgid "Note"
+msgstr "Σημείωση"
+
+msgid "Un-Archive"
+msgstr "Κατάργηση Αρχειοθέτησης"
+
+msgid "Are you sure you want to delete the selected notes(s)"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τη/τις επιλεγμένη/ες σημείωση/εις"
+
+msgid "Date Submitted"
+msgstr "Ημερομηνία Υποβολής"
+
+msgid "Entered By"
+msgstr "Καταχωρήθηκε Από"
+
+msgid "Viewable By Client"
+msgstr "Ορατό από τον Πελάτη"
+
+msgid "Ticket Type"
+msgstr "Τύπος Ticket"
+
+msgid "No items found"
+msgstr "Δεν βρέθηκαν στοιχεία"
+
+msgid "The package upgrade/downgrade has been canceled"
+msgstr "Η αναβάθμιση/υποβάθμιση του πακέτου έχει ακυρωθεί"
+
+msgid "Upgrade/Downgrade Package"
+msgstr "Αναβάθμιση/Υποβάθμιση Πακέτου"
+
+msgid ""
+"Are you sure you want to generate the next recurring invoice that applies to the selected package(s) as long "
+"as they have recurring charges?"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να δημιουργήσετε το επόμενο επαναλαμβανόμενο τιμολόγιο που ισχύει για το/τα "
+"επιλεγμένο/α πακέτο/α εφόσον έχουν επαναλαμβανόμενες χρεώσεις;"
+
+msgid "Are you sure you want to delete the selected package(s)?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το/τα επιλεγμένο/α πακέτο/α;"
